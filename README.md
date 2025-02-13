@@ -185,7 +185,6 @@
 
 ### Deployment
 
-- [Deployment](https://www.youtube.com/playlist?list=PLX1bW_GeBRhAjpkPCTpKXJoFGe2ZpYGUC)
 
 ---
 
